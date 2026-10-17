@@ -1,5 +1,5 @@
 # Replication Package
-## Unpredictable Behavior in Climate Allocation Shenanigans
+## Unpredictable Behavior in Climate Allocation
 **Author:** Matteo Mazzarano  
 
 ---
